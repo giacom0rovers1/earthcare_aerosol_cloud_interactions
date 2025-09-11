@@ -209,3 +209,7 @@ __marimo__/
 
 # MAAP Token file
 token.txt
+gittoken.txt
+
+*.nc
+
